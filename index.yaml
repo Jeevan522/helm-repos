@@ -3,7 +3,17 @@ entries:
   helm-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-05-08T15:11:48.921248+05:30"
+    created: "2022-05-08T15:48:52.1575582+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 6d72141189bf5539f2b35f8688c7c1b167c575d6cd1abe4600367c6ce389e98b
+    name: helm-app
+    type: application
+    urls:
+    - https://jeevan522.github.io/helm-repos/helm-app-1.0.2.tgz
+    version: 1.0.2
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-05-08T15:48:52.1554228+05:30"
     description: A Helm chart for Kubernetes
     digest: 4636037e6862a318e4869fb6e86c278e3e577968651cc3707c62a8d9c1d971f7
     name: helm-app
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://jeevan522.github.io/helm-repos/helm-app-1.0.1.tgz
     version: 1.0.1
-generated: "2022-05-08T15:11:48.9172369+05:30"
+generated: "2022-05-08T15:48:52.1524963+05:30"
